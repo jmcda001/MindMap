@@ -2,14 +2,8 @@ html body {
 	width: 100%;
 	height: 100%;
 }
+
 #mindMapDiv {
 	width:100%;
 	height: 100%;	
-}
-
-.mindMapMaestro {
-	width: 100%;
-	height: 100%;
-
-	border: 1em solid #000000;
 }
